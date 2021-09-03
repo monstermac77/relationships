@@ -12,6 +12,9 @@ One approach to this issue is documentation: to the best of your ability, docume
 
 One might wonder then: why doesn't one just always follow the raw advice of their friends? That is another issue: it seems as though it's difficult to make any decision if it doesn't feel like that decision isn't coming from within (likely as a way of protection against undue influence by others). Perhaps this is why the Socratic method or even "reverse psychology"<sup>1</sup> is such an effective form of teaching: it lightly tricks the mind into thinking that it is the origination of the idea or belief, and so that idea or belief can be trusted. This is also likely why we often kick ourselves for not listening to others in hindsight once we've discovered ourselves that they were right; we simply couldn't make the same conclusion as them before we discovered for ourselves because of our bias terms. In hindsight, the bias terms have gone to zero, which means we have perfect clarity because we have all of the information and none of the bias, so the solution seems obvious.
 
+Finally, after breaking up, it seems as though one starts to highly value/notice the attributes that they felt like were missing from their former partner (that is, they have "learned" and positively adjusted the weights of the these factors)<sup>2</sup>. 
+
 Acknowledgements:
 
 1: Amelia Grace Ward
+2: Monty Evans
