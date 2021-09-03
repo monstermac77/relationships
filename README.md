@@ -15,4 +15,5 @@ Just like backpropagation in machine learning, your weights might actually shift
 One might wonder then: why doesn't one just always follow the advice of their friends. That is another issue: it seems as though it's difficult to make any decision if it doesn't feel like that decision isn't coming from within (likely as a way of protection against undue influence by others). Perhaps this is why the Socratic method or even "reverse psychology"<sup>1</sup> is such an effective form of teaching: it lightly tricks the mind into thinking that it is the origination of the idea or belief, and so that idea or belief can be trusted.
 
 Acknowledgements:
+
 1: Amelia Grace Ward
