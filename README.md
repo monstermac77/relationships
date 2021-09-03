@@ -18,6 +18,8 @@ Finally, after breaking up, it seems as though one starts to highly (sometimes o
 
 [TODO/TOFINISH] Honeymoon period. The length of the honeymoon period is likely inversely proportional size of the _true_ differences between all of the factors. That is, as time goes on, these percieved values tend toward their actual true values (via random discovery, often accelerated by hardship and other environmental factors). The larger the actual difference, the faster the honeymoon period will end and trend toward break-up. It's likely reasonable to conclude that no relationship can survive infinite time or substantial, unending environmental hardship. Every relationship likely would end, it's simply a matter of whether one's life ends prior to that period. Random environmental factors likely simply accelerate this timeline. 
 
+[TODO] the two triangles and their area overlap, top vertex is starting point. 
+
 Acknowledgements:
 
 1: Amelia Grace Ward
