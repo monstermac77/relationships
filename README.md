@@ -24,7 +24,7 @@ A couple of additional thougts:
 
 Footnotes:
 
-1. 
+1. It's imperative to note that this is your _perception_ of their trait, not the _true value_ of the trait. The less you know about the person, the larger the difference between these two values might be.
 2. Thank you to Amelia Grace Ward for this insight.
 3. Thank you to Monty Evans and Hannah Nayowith for this insight. 
 
