@@ -1,4 +1,10 @@
-Note: This is currently very free-form because often these are disjoint thoughts that sprang into my mind while I was walking or discussing this topic with friends or strangers and hearing their stories. 
+# Preface
+
+If you have feedback on this essay or would like to chat, I spend most nights talking with other New Yorkers from 9pm to 12am in Washington Square Park (I sit on the south side of the fountain on the benches that surround a small tree). 
+
+This is currently very free-form because often these are disjoint thoughts that sprang into my mind while I was walking or discussing this topic with friends or strangers and hearing their stories. 
+
+# Discussion
 
 The decision of whether or not to break-up with someone at any given time can probably be expressed as a polynomial (i.e. `ax^i + by^j + cz^k + ...`) where the coefficients (`a`, `b`, ...) are the weights of how important the factors (`x`, `y`, ...) are to the individual (for simplicity, we'll use "you"). If the sum of all of the terms in this polynomial is smaller than some constant `ψ` (where `0 < ψ < 1`), then you feel as though it makes sense to break up with your partner. If the sum is greater than `ψ`, then you feel as though you should stay with your partner. The factors are your perception<sup>1</sup> of their various traits. For example, `x` could be your partner's attitude toward saving money, `y` could be the physical attraction you have to your partner, `z` could be your partner's capacity for empathy or patience, etc. If a factor is unimportant to you, it'll have a small coefficient (i.e. it plays a small role in determining the outcome).
 
