@@ -1,6 +1,6 @@
 # Preface
 
-If you have feedback on this essay or would like to chat, I spend most nights talking with other New Yorkers from 9pm to 12am in Washington Square Park (I sit on the southwest side of the fountain on the granite benches). I'm the guy with the dog.
+If you have feedback on this essay or would like to chat, I spend most nights talking with other New Yorkers from 9:31pm to 12am in Washington Square Park (I sit on the southwest side of the fountain on the granite benches). I'm the guy with the dog.
 
 This is currently very free-form because often these are disjoint thoughts that sprang into my mind while I was walking or discussing this topic with friends or strangers and hearing their stories. 
 
